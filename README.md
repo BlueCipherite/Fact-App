@@ -1,6 +1,5 @@
-Written by Ridwanullah Alabi(AnonumousAlabi)
 # Project Title
-**Fact App**
+Number Fact App
 
 ## Built with
 HTML, CSS, JavaScript, and numbers API from numbersapi.com.
